@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">QuizAppCoursework</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="skip_button">Skip</string>
+
+    <string name="question_oceans">The Atlantic Ocean is smaller than the Pacific.</string>
+    <string name="question_mideast">Egypt borders Syria.</string>
+    <string name="question_africa">Mount Kilimanjaro is in Kenya.</string>
+    <string name="question_americas">Brazil is the biggest country in the Americas.</string>
+    <string name="question_asia">Pyongyang is the capital of North Korea.</string>
+    <string name="question_uk">Republic of Ireland is in the United Kingdom.</string>
+    <string name="question_europe">Andorra is between France and Spain.</string>
+    <string name="question_penguins">Penguins only live in the Southern Hemisphere.</string>
+    <string name="question_waterfall">Niagara Falls is the biggest waterfall in the world.</string>
+    <string name="question_giraffes">The Giraffe is the biggest animal in the world.</string>
+
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="cheat_toast">Cheating is wrong.</string>
+</resources>

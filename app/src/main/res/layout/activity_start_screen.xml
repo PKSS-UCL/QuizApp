@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="top|center"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="Quiz App"
+        android:textSize="36dp"
+        android:gravity="center"
+        android:layout_weight="0.34" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="Enter username:"
+        android:ems="10"
+        android:id="@+id/userid" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:id="@+id/password"
+        android:hint="Enter Password:" />
+
+    <Button
+        android:text="Start!"
+        android:layout_width="245dp"
+        android:layout_height="50dp"
+        android:id="@+id/startbutton" />
+
+    <Button
+        android:text="2 player?"
+        android:layout_width="245dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/multiplayerbutton" />
+
+</LinearLayout>
